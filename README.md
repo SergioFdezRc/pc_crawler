@@ -85,19 +85,19 @@ A continuación se muestran los pasos básicos para utilizar el programa, acompa
 
 1. **Selecciona el path en donde quieres realizar la búsqueda.**
    - Por ejemplo: `C:/Documents`
-   - ![Seleccionar directorio](images\1.load.png)
+   - ![Seleccionar directorio](images/1.load.png)
 
 2. **Haz clic en "Configurar"**
-   - ![Botón Configurar](images\2.configure.png)
+   - ![Botón Configurar](images/2.configure.png)
 
 3. **Carga automática del diccionario**
    - El sistema analizará todos los documentos del directorio seleccionado (txt, pdf, doc, etc.) y generará un diccionario con todas las palabras encontradas.
-   - ![Ver diccionario](images\3.ver.png)
-   - ![Diccionario cargado](images\4.diccionario.png)
+   - ![Ver diccionario](images/3.ver.png)
+   - ![Diccionario cargado](images/4.diccionario.png)
 
 4. **Búsqueda de palabras**
    - Escribe una palabra que aparezca en el diccionario y pulsa "Buscar". Verás en qué documentos aparece y cuántas veces, de forma instantánea.
-   - ![Búsqueda de palabra](images\5.resultado.png)
+   - ![Búsqueda de palabra](images/5.resultado.png)
 
 
 ## Estructura del Proyecto
