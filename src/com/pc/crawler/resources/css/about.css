@@ -1,0 +1,11 @@
+*{
+    -fx-background-color: #fff;
+}
+#nombre_sergio, #nombre_luis {
+    -fx-font-weight: bold;
+}
+
+#desc_sergio, #desc_luis {
+    -fx-text-alignment: justify;
+    -fx-padding: 20px;
+}

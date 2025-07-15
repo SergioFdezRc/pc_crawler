@@ -1,0 +1,60 @@
+# Compilados de Java
+*.class
+
+# Directorios de salida
+/out/
+/build/
+/bin/
+/target/
+
+# Archivos de log
+*.log
+
+# Archivos de configuración de IDEs
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+# Eclipse
+.project
+.classpath
+.settings/
+# VSCode
+.vscode/
+
+# Archivos temporales del sistema
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Archivos de dependencias descargadas manualmente
+lib/
+*.jar
+!src/**/resources/*.jar
+
+# Archivos de configuración de usuario
+*.user
+*.suo
+*.bak
+
+# Archivos de exportación y resultados
+*.xlsx
+*.csv
+*.json
+*.txt
+!Thesaurus_es_ES.txt
+
+# Archivos de serialización
+*.ser
+
+# Otros
+*.log
+*.bak
+*.old
+
+# Excluir recursos importantes
+!src/com/pc/crawler/resources/ 
+com.pc.crawler.userlibraries
